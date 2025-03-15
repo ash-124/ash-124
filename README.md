@@ -10,13 +10,17 @@
 ###
 
 <h3 align="center">About Me</h3>
-
 ###
 
 <p align="left">I am an junior web developer . With expertise  in JavaScript , React.js, MongoDB, Node JS, Tailwind CSS. Nowadays, I work mostly with React.js for web applications. But i am comfortable with building servers with Node.js, Express.js and MongoDB. I am passionate about creating seamless scalable web applications with eye catching design and functionality. I am a life long learner  and it's help me to add new weapons to my knowledge .</p>
 
 ###
 
+###
+<h2> ⚙ Currently Learning :</h2>
+<p align="left"> ⚡CSS Animations <br> ⚡REACT Animation Libraries framer-motion , gsap </p>
+
+###
 <p align="left">✨Creating bugs  since 2023 <</p>
 
 ###
